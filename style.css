@@ -80,3 +80,6 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
 }
+.button-solid:focus { 
+    border: none; outline: none; 
+}
